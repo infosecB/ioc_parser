@@ -16,7 +16,7 @@ IOC Parser is a tool to extract indicators of compromise from security reports i
 ## Requirements
 One of the following PDF parsing libraries:
 * [PyPDF2](https://github.com/mstamy2/PyPDF2) - *pip install pypdf2*
-* [pdfminer.six](https://github.com/euske/pdfminer) - *pip install pdfminer.six*
+* [pdfminer.six](https://github.com/pdfminer/pdfminer.six) - *pip install pdfminer.six*
 
 For HTML parsing support:
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - *pip install beautifulsoup4*
